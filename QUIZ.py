@@ -1,5 +1,5 @@
 name = input("사람 이름")
-a = input("number_one")
-b = input("number_two")
+a = input("첫 번째 숫자를 입력하세요")
+b = input("두 번째 숫자를 입력하세요")
 print("안녕하세요" , name , "님" , "입력하신 두 숫자는" , "A,B 이며", "두 숫자의 곱은", "다음과 같습니다")
 print(a, b)
